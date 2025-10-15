@@ -1,16 +1,17 @@
 
 <style>
 body {
-  background-color: lightgrey;
+  background-color: grey;
 }
 
 h1 {
   color: black;
   text-align: center;
+   font-family: "Press Start 2p";
 }
 
 p {
-  font-family: "press start 2p";
+  font-family: "Press Start 2p";
   font-size: 20px;
 }
 </style>
